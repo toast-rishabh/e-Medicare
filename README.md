@@ -34,5 +34,5 @@ The Online Clinic System is a Java-based application designed to provide a seaml
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/online-clinic-system.git
+   git clone https://github.com/toast-rishabh/online-clinic-system.git
    cd online-clinic-system
